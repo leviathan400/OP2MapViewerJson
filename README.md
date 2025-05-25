@@ -1,2 +1,7 @@
 # OP2MapViewerJson
-Outpost 2 JSON map viewer. App to view maps that are in JSON format.
+
+![Screenshot](https://images.outpostuniverse.org/OP2MapViewerJson.png)
+
+## What is it?
+
+OP2MapViewerJson is a simple utility application for viewing Outpost 2: Divided Destiny maps that are in JSON format.
